@@ -5,3 +5,5 @@
 **Notice:**
 
 This repository has been archived in favor of the same available in the monorepo at <https://github.com/freeCodeCamp/freeCodeCamp>
+[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
+
